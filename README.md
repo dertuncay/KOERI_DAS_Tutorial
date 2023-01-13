@@ -1,5 +1,6 @@
 # KOERI_DAS_Tutorial
-This repository provides data reading examples for FOSSA and Standford-1 DAS experiments
+This repository provides data reading examples for FOSSA and Standford-1 DAS experiments. This repository is created thanks to the PubDAS repository. Information about the repository can be found in the article below: \
+Zack J. Spica, Jonathan Ajo‐Franklin, Gregory C. Beroza, Biondo Biondi, Feng Cheng, Beatriz Gaite, Bin Luo, Eileen Martin, Junzhu Shen, Clifford Thurber, Loïc Viens, Herbert Wang, Andreas Wuestefeld, Han Xiao, Tieyuan Zhu; PubDAS: A PUBlic Distributed Acoustic Sensing Datasets Repository for Geosciences. Seismological Research Letters 2023; doi: https://doi.org/10.1785/0220220279
 
 ## DAS Data Download
 
